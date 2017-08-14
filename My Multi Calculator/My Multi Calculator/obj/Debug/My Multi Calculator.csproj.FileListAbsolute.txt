@@ -1,0 +1,66 @@
+F:\My Program\My Multi Calculator\My Multi Calculator\bin\Debug\My Multi Calculator.exe.config
+F:\My Program\My Multi Calculator\My Multi Calculator\bin\Debug\My Multi Calculator.exe
+F:\My Program\My Multi Calculator\My Multi Calculator\bin\Debug\My Multi Calculator.pdb
+F:\My Program\My Multi Calculator\My Multi Calculator\bin\Debug\Interop.WMPLib.dll
+F:\My Program\My Multi Calculator\My Multi Calculator\bin\Debug\AxInterop.WMPLib.dll
+F:\My Program\My Multi Calculator\My Multi Calculator\obj\Debug\My Multi Calculator.csprojResolveAssemblyReference.cache
+F:\My Program\My Multi Calculator\My Multi Calculator\obj\Debug\Interop.WMPLib.dll
+F:\My Program\My Multi Calculator\My Multi Calculator\obj\Debug\AxInterop.WMPLib.dll
+F:\My Program\My Multi Calculator\My Multi Calculator\obj\Debug\My Multi Calculator.csproj.ResolveComReference.cache
+F:\My Program\My Multi Calculator\My Multi Calculator\obj\Debug\My_Multi_Calculator.Minu.resources
+F:\My Program\My Multi Calculator\My Multi Calculator\obj\Debug\My_Multi_Calculator.Properties.Resources.resources
+F:\My Program\My Multi Calculator\My Multi Calculator\obj\Debug\My Multi Calculator.csproj.GenerateResource.Cache
+F:\My Program\My Multi Calculator\My Multi Calculator\obj\Debug\My Multi Calculator.exe
+F:\My Program\My Multi Calculator\My Multi Calculator\obj\Debug\My Multi Calculator.pdb
+F:\My Program\My Multi Calculator\My Multi Calculator\obj\Debug\My_Multi_Calculator.Pais.resources
+F:\My Program\My Multi Calculator\My Multi Calculator\obj\Debug\My_Multi_Calculator.GPA.resources
+F:\My Program\My Multi Calculator\My Multi Calculator\obj\Debug\My_Multi_Calculator.Age.resources
+F:\My Program\My Multi Calculator\My Multi Calculator\obj\Debug\My_Multi_Calculator.XO.resources
+F:\My Program\My Multi Calculator\My Multi Calculator\obj\Debug\My_Multi_Calculator.DTB.resources
+F:\My Program\My Multi Calculator\My Multi Calculator\obj\Debug\My_Multi_Calculator.BTD.resources
+F:\My Program\My Multi Calculator\My Multi Calculator\obj\Debug\My_Multi_Calculator.Form9.resources
+F:\My Program\My Multi Calculator\My Multi Calculator\obj\Debug\My_Multi_Calculator.Weight.resources
+E:\My Program\My Multi Calculator\My Multi Calculator\bin\Debug\My Multi Calculator.exe.config
+E:\My Program\My Multi Calculator\My Multi Calculator\obj\Debug\Interop.WMPLib.dll
+E:\My Program\My Multi Calculator\My Multi Calculator\obj\Debug\AxInterop.WMPLib.dll
+E:\My Program\My Multi Calculator\My Multi Calculator\obj\Debug\My Multi Calculator.csproj.ResolveComReference.cache
+E:\My Program\My Multi Calculator\My Multi Calculator\obj\Debug\My Multi Calculator.exe
+E:\My Program\My Multi Calculator\My Multi Calculator\obj\Debug\My Multi Calculator.pdb
+E:\My Program\My Multi Calculator\My Multi Calculator\bin\Debug\My Multi Calculator.exe
+E:\My Program\My Multi Calculator\My Multi Calculator\bin\Debug\My Multi Calculator.pdb
+E:\My Program\My Multi Calculator\My Multi Calculator\bin\Debug\Interop.WMPLib.dll
+E:\My Program\My Multi Calculator\My Multi Calculator\bin\Debug\AxInterop.WMPLib.dll
+E:\My Program\My Multi Calculator\My Multi Calculator\obj\Debug\My Multi Calculator.csprojResolveAssemblyReference.cache
+E:\My Program\My Multi Calculator\My Multi Calculator\obj\Debug\My_Multi_Calculator.Minu.resources
+E:\My Program\My Multi Calculator\My Multi Calculator\obj\Debug\My_Multi_Calculator.Pais.resources
+E:\My Program\My Multi Calculator\My Multi Calculator\obj\Debug\My_Multi_Calculator.GPA.resources
+E:\My Program\My Multi Calculator\My Multi Calculator\obj\Debug\My_Multi_Calculator.Age.resources
+E:\My Program\My Multi Calculator\My Multi Calculator\obj\Debug\My_Multi_Calculator.XO.resources
+E:\My Program\My Multi Calculator\My Multi Calculator\obj\Debug\My_Multi_Calculator.DTB.resources
+E:\My Program\My Multi Calculator\My Multi Calculator\obj\Debug\My_Multi_Calculator.BTD.resources
+E:\My Program\My Multi Calculator\My Multi Calculator\obj\Debug\My_Multi_Calculator.Weight.resources
+E:\My Program\My Multi Calculator\My Multi Calculator\obj\Debug\My_Multi_Calculator.Form9.resources
+E:\My Program\My Multi Calculator\My Multi Calculator\obj\Debug\My_Multi_Calculator.Properties.Resources.resources
+E:\My Program\My Multi Calculator\My Multi Calculator\obj\Debug\My Multi Calculator.csproj.GenerateResource.Cache
+D:\My Program\My Multi Calculator\My Multi Calculator\bin\Debug\My Multi Calculator.exe.config
+D:\My Program\My Multi Calculator\My Multi Calculator\obj\Debug\Interop.WMPLib.dll
+D:\My Program\My Multi Calculator\My Multi Calculator\obj\Debug\AxInterop.WMPLib.dll
+D:\My Program\My Multi Calculator\My Multi Calculator\obj\Debug\My Multi Calculator.csproj.ResolveComReference.cache
+D:\My Program\My Multi Calculator\My Multi Calculator\obj\Debug\My Multi Calculator.exe
+D:\My Program\My Multi Calculator\My Multi Calculator\obj\Debug\My Multi Calculator.pdb
+D:\My Program\My Multi Calculator\My Multi Calculator\bin\Debug\My Multi Calculator.exe
+D:\My Program\My Multi Calculator\My Multi Calculator\bin\Debug\My Multi Calculator.pdb
+D:\My Program\My Multi Calculator\My Multi Calculator\bin\Debug\Interop.WMPLib.dll
+D:\My Program\My Multi Calculator\My Multi Calculator\bin\Debug\AxInterop.WMPLib.dll
+D:\My Program\My Multi Calculator\My Multi Calculator\obj\Debug\My Multi Calculator.csprojResolveAssemblyReference.cache
+D:\My Program\My Multi Calculator\My Multi Calculator\obj\Debug\My_Multi_Calculator.Minu.resources
+D:\My Program\My Multi Calculator\My Multi Calculator\obj\Debug\My_Multi_Calculator.Pais.resources
+D:\My Program\My Multi Calculator\My Multi Calculator\obj\Debug\My_Multi_Calculator.GPA.resources
+D:\My Program\My Multi Calculator\My Multi Calculator\obj\Debug\My_Multi_Calculator.Age.resources
+D:\My Program\My Multi Calculator\My Multi Calculator\obj\Debug\My_Multi_Calculator.XO.resources
+D:\My Program\My Multi Calculator\My Multi Calculator\obj\Debug\My_Multi_Calculator.DTB.resources
+D:\My Program\My Multi Calculator\My Multi Calculator\obj\Debug\My_Multi_Calculator.BTD.resources
+D:\My Program\My Multi Calculator\My Multi Calculator\obj\Debug\My_Multi_Calculator.Weight.resources
+D:\My Program\My Multi Calculator\My Multi Calculator\obj\Debug\My_Multi_Calculator.Form9.resources
+D:\My Program\My Multi Calculator\My Multi Calculator\obj\Debug\My_Multi_Calculator.Properties.Resources.resources
+D:\My Program\My Multi Calculator\My Multi Calculator\obj\Debug\My Multi Calculator.csproj.GenerateResource.Cache
